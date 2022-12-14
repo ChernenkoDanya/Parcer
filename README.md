@@ -1,7 +1,7 @@
 # ParcerParser_Book24
 Парсер сайта book24.ru на основе вреймворка Scrapy
 
-Требования:
+#Требования:
 Python
 Scrapy
 scrapy-user-agents
